@@ -1,0 +1,115 @@
+/*coupon.css*/
+.list-item-bg {
+    background: url(../img/bg_优惠券@3x.png) no-repeat;
+    background-size: 100%;
+    width: 100%;
+    margin-top: .2rem;
+}
+.list-mes .list-h3 {
+    font-size: .24rem !important;
+    color: #333 !important;
+    font-weight: 200 !important;
+    padding-top: .1rem;
+    height: 63%;
+    padding-right: .2rem;
+}
+.list-theme4 .list-item .list-mes .list-mes-item {
+    height: 50%;
+}
+.list-time {
+    font-size: .24rem;
+    color: #999;
+    margin-bottom: .1rem;
+    display: block;
+}
+.btn-primary {
+    background-color: #6BC235 !important;
+    color: #FFF !important;
+    width: 1.3rem;
+    height: .45rem !important;
+    line-height: .45rem !important;
+    margin-right: .2rem;
+    margin-bottom: .15rem;
+    border-radius: 7px !important;
+    padding: 0 !important;
+}
+.list-p img {
+    width: .3rem;
+    display: inline-block;
+    position: absolute;
+    top: .05rem;
+}
+.list-theme4 .list-item .list-mes{
+  position:relative;
+}
+.img-has {
+    display: block;
+    width: 1rem;
+    margin-top: .2rem;
+    margin-right: 0.4rem;
+    position: absolute;
+    bottom: .18rem;
+}
+
+
+/*后改coupon.css*/
+.list-span em {
+    font-size: .7rem;
+}
+.list-time {
+    font-size: .24rem;
+    color: #999;
+    margin-bottom: .15rem;
+    display: block;
+}
+.btn-primary {
+    background-color: #6BC235 !important;
+    color: #FFF !important;
+    width: 1.3rem;
+    height: .45rem !important;
+    line-height: .45rem !important;
+    position: absolute !important;
+    right: .2rem;
+    bottom: .08rem;
+    border-radius: 7px !important;
+    padding: 0 !important;
+}
+.list-theme4 .list-item .list-mes .list-mes-item {
+    height: 47%;
+}
+.list-h3-no {
+    font-size: .24rem !important;
+    color: #999 !important;
+    font-weight: 200 !important;
+    padding-top: .1rem;
+    height: 60%;
+    padding-right: .3rem;
+}
+.img-has {
+    display: block;
+    width: 1rem;
+    top: .45rem;
+    margin-right: 0.4rem;
+    position: absolute;
+    bottom: .18rem;
+}
+.list-theme4 .list-item .list-mes {
+    border-left: 1px dashed #e1dede;
+    padding-left: .3rem !important;
+}
+.tab-nav-item a {
+    font-size: .24rem !important;
+}
+/*style.css*/
+.i_list ul li h3 {
+    color: rgb(51, 51, 51);
+    overflow: hidden;
+    font-size: .25rem;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.pptianjia_h {
+    font-size: .24rem !important;
+    padding: 0px 0px;
+    font-weight: bold;
+}

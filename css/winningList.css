@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+header a {
+    display: block;
+    height: .8rem;
+    line-height: .8rem
+}
+
+header img {
+    width: .19rem;
+    display: block;
+    height: .36rem;
+    padding-top: .25rem;
+    padding-left: .2rem
+}
+
+.head_banner img {
+    width: 100%;
+    display: block
+}
+
+.win_record ul li {
+    height: .88rem;
+    line-height: .88rem;
+    display: flex;
+    border-bottom: 0.5px solid rgba(223, 223, 223, 0.64);
+    width: 94%;
+    margin: auto
+}
+
+.win_record ul li>div:nth-of-type(1) {
+    width: 65%
+}
+
+.win_record ul li>div:nth-of-type(1) span {
+    font-size: .25rem
+}
+
+.win_record ul li>div:nth-of-type(2) {
+    width: 35%
+}
+
+.win_record ul li>div:nth-of-type(2) span {
+    font-size: .22rem;
+    float: right
+}
+
+.win_record ul li>div>span {
+    color: #666;
+    display: block
+}
